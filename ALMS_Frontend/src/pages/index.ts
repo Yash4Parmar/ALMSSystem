@@ -1,0 +1,14 @@
+export { default as EmployeeEdit } from "./employees/EmployeeEdit";
+export { default as EmployeeAdd } from "./employees/EmployeeAdd";
+export { default as Attendance } from "./attendance/Attendance";
+export { default as Auth } from "./auth/Auth";
+export { default as Employees } from "./employees/Employees";
+export { default as EmployeeForm } from "./employees/EmployeeAdd";
+export { default as EmployeeDetails } from "./employees/EmployeeDetails";
+export { default as Project } from "./project/Project";
+export { default as ProjectForm } from "./project/ProjectForm";
+export { default as ProjectDetails } from "./project/ProjectDetails";
+export { default as Leaves } from "./leaves/Leaves";
+export { default as Dashboard } from "./dashboard/Dashboard";
+export { default as Holidays } from "./holiday/Holidays";
+export { default as LeaveForm } from "./leaves/LeaveForm";
